@@ -3,9 +3,6 @@ $(function(){
 
         var user,pass;
 
-        user = 'agomez';
-        pass='algo#123';
-
         loginIn(user,pass);
 
     });
